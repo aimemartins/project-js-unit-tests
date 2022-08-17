@@ -12,7 +12,6 @@
 */
 
 const average = (array) => {
-
   let soma = 0;
   let tamanhoArray = array.length;
   if (array.length === 0) {
