@@ -1,4 +1,4 @@
-# Projeto Zoo Functions
+# Projeto JS Unit Tests
 
 Esse projeto foi elaborado durante o Módulo de Fundamentos do curso da Trybe para desenvolver habilidades com os conteúdos e tecnologias de: <br>
 <br>
