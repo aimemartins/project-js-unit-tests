@@ -13,10 +13,9 @@ Esse projeto foi elaborado durante o Módulo de Fundamentos do curso da Trybe pa
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Instalação](#instalação)
 - [Testes](#testes)
+- [Status](#status)
 - [Requisitos](#requisitos)
    - [Requisitos Obrigatórios](#requisitos-obrigatórios)
-   - [Requisitos Bônus](#requisitos-bônus)
-- [Progresso](#progresso)
 
 
 ## Elaboração
@@ -58,6 +57,8 @@ Os comandos que você utilizará com mais frequência são:
 `npm test caminho/para/arquivo` (executa apenas os testes presentes no arquivo especificado)
 Exemplo: `npm test tests/average.spec.js`
 
+## Status
+O projeto está em andamento 🚧
 
 ## Requisitos 
    
@@ -196,9 +197,6 @@ Essa função já está implementada no arquivo src/productDetails.js. Escreva p
           12. No arquivo src/restaurant.js, adicione ao objeto retornado por createMenu() uma chave pay com uma função que percorre por todos os itens de objetoRetornado.consumption, soma o preço deles e retorna o valor somado acrescido de 10%. DICA: para isso, você precisará percorrer tanto o objeto da chave food quanto o objeto da chave drink.  <br>
 
          
-## Progresso
-O projeto está em andamento 🚧
-
 
 # :construction: README em construção ! :construction:
 <!-- Olá, Tryber!
