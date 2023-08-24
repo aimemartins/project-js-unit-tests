@@ -196,15 +196,3 @@ Essa função já está implementada no arquivo src/productDetails.js. Escreva p
           11. No arquivo tests/restaurant.spec.js, escreva um teste que verifica que, ao chamar objetoRetornado.pay(), retorna-se a soma dos preços de tudo que foi pedido, conforme registrado em objetoRetornado.consumption.  <br>
           12. No arquivo src/restaurant.js, adicione ao objeto retornado por createMenu() uma chave pay com uma função que percorre por todos os itens de objetoRetornado.consumption, soma o preço deles e retorna o valor somado acrescido de 10%. DICA: para isso, você precisará percorrer tanto o objeto da chave food quanto o objeto da chave drink.  <br>
 
-         
-
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
